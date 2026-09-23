@@ -1,7 +1,9 @@
 ---
 title: People Inc. Announces AI Content Partnership with Meta
 url: https://www.stocktitan.net/news/IAC/people-inc-announces-ai-content-partnership-with-er6qwslhw92x.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IAC/InterActiveCorp" press release artificial intelligence'
 position: 3
 source: serpapi-google
